@@ -3,7 +3,7 @@ A simple Leaflet map template for new users to explore.
 
 ## Link to live site on my gh-pages branch:
 
-http://jackdougherty.github.io/leaflet-map-simple
+http://stacylam9.github.io/leaflet-map-simple
 
 ## To make this repository your own version
 
